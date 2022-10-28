@@ -1,5 +1,5 @@
 body {
-	background: #e612a5;
+	background: #f00c0c;
 	margin: 0;
 	padding: 0;
 }
@@ -13,7 +13,7 @@ h1 {
 }
 
 .textos {
-	background: white;
+	background: rgb(255, 255, 255);
 }
 
 p {
